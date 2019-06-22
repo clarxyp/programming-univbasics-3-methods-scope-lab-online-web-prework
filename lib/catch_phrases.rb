@@ -9,4 +9,4 @@ def toadstool
 end
 
 def link 
-  
+  shout = "It's Dangerous "
